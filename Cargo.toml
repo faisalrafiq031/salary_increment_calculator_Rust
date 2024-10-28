@@ -1,0 +1,6 @@
+[package]
+name = "salary_increment_rate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
